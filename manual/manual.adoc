@@ -2,9 +2,16 @@
 Doc Author
 v1.0, 2015-02-01
 :toc: left
-:stylesheet: github.css
+:stylesheet: foundation.css
 :source-highlighter: pygments
 :pygments-style: autumn
+////
+To get a list of pygments styles:
+$ pygmentize -L styles
+
+My favourite one is "autumn", but unfortunately it has white parenthesys...
+Need to learn how to customize styles (if there is a way to do it).
+////
 
 == Introduction
 
