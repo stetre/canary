@@ -1,0 +1,28 @@
+= Canary In A Coal Mine Reference Manual
+Doc Author
+v1.0, 2015-02-01
+:toc: left
+:stylesheet: golo.css
+:source-highlighter: pygments
+:pygments-style: autumn
+
+== Introduction
+
+This is the Canary In A Coal Mine Reference Manual.
+
+== Example
+
+[source,lua,indent=1]
+----
+-- This is an hello world function
+function Hello()
+  print("Hello World! %u %u %u",1,2,3)
+end
+----
+
+== Logo
+.The canary
+image::../images/canary.png[]
+
+Go to the http://github.com/stetre/canary[official-repository].
+
