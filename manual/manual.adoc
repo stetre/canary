@@ -2,7 +2,7 @@
 Doc Author
 v1.0, 2015-02-01
 :toc: left
-:stylesheet: golo.css
+:stylesheet: github.css
 :source-highlighter: pygments
 :pygments-style: autumn
 
