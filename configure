@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Base directory of Canary package.
+CANARY_BASE="$PWD" 
+
+# Add the path to Canary to LUA_PATH.
+CANARY_PATH="$CANARY_BASE/?.lua;;"
+case :$LUA_PATH: in
+ *$CANARY_PATH*) ;; # already in
+ *) export LUA_PATH=$LUA_PATH$CANARY_PATH;;
+esac
+
