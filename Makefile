@@ -1,7 +1,7 @@
 
-doc:
-	@cd manual;		$(MAKE) $@
+docs:
+	@cd doc;		$(MAKE) $@
 
 clean:
-	@cd manual;		$(MAKE) $@
+	@cd doc;		$(MAKE) $@
 

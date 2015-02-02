@@ -13,8 +13,8 @@ No, you don't want  to.
 
 #### Documentation and examples
 
-This project has a fancy [reference manual](https://stetre.github.io/canary/manual/manual.html)
-with [examples](https://stetre.github.io/canary/manual/manual.html#_example) in it.
+This project has a fancy [reference manual](https://stetre.github.io/canary/doc/index.html)
+with [examples](https://stetre.github.io/canary/doc/index.html#_example) in it.
 
 It also has a [wiki](https://github.com/stetre/canary/wiki).
 
@@ -33,6 +33,6 @@ Isn't it cute? Poor little thing... I really hope it won't get hurt!
 
 #### Previewing
 
-To preview locally this file, and GFM files in general, you can use
+To preview this file locally (and GFM files in general), you can use
 [grip](https://github.com/joeyespo/grip).
 
