@@ -1,3 +1,3 @@
-canary = require("canary.lua")
+canary = require("canary")
 
 canary.hello()
