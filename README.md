@@ -1,4 +1,4 @@
-### Canary In A Coal Mine
+### Canary In A Coal Mine v0.2
 
 This is just a test project I use to explore GitHub features, and to make
 practice before causing disasters in repositories I care of.
